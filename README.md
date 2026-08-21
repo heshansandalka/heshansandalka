@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 - 🌱 Currently expanding my skills in **HTML, CSS, JS, React, PHP & MySQL**
 
-
+### 🚀 Projects
 
 - 🎬 Check out my projects [CineMate](https://heshansandalka.github.io/CineMate/)
 
