@@ -40,23 +40,21 @@
 ---
 
 
-## 📈 Contribution Graph (Auto-updated daily)
+## 📈 Contribution Graph 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshansandalka&theme=github-dark" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Auto-updated with your commits!)
+## 📊 GitHub Stats 
 
 ### 🔥 Streak & Overall Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshansandalka&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshansandalka&show_icons=true&theme=dark" alt="heshansandalka stats" />
-</p>
+
 ---
 
 
