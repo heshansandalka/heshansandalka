@@ -54,6 +54,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshansandalka&theme=dark" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heshansandalka&show_icons=true&theme=dark" alt="heshansandalka stats" />
+</p>
 
 ---
 
