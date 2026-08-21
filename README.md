@@ -39,26 +39,24 @@
 
 ---
 
-## 📊 GitHub Stats
 
-### 🔥 Streak & Stats
+## 📈 Contribution Graph (Auto-updated daily)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshansandalka&theme=github-dark" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Auto-updated with your commits!)
+
+### 🔥 Streak & Overall Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshansandalka&theme=dark" alt="GitHub Streak" />
 </p>
 
-
-
-### 📌 Contribution Badges
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Current_Streak-8_days-blue?style=for-the-badge" alt="Current Streak" />
-  <img src="https://img.shields.io/badge/Longest_Streak-8_days-orange?style=for-the-badge" alt="Longest Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heshansandalka&show_icons=true&theme=dark" alt="heshansandalka stats" />
 </p>
-
-<p align="center">
-  <small>📅 Aug 2, 2025 – Present &nbsp;|&nbsp; ⚡ Aug 20 – Aug 21 &nbsp;|&nbsp; 🏆 Apr 30 – May 7</small>
-</p>
-
 ---
 
 
