@@ -63,16 +63,6 @@
 
 ---
 
-### 📅 Recent Activity (Update this monthly to keep it fresh)
-*(ඔබගේ අලුත්ම commits අනුව මෙම ගණන් වෙනස් කරන්න. උදා: September 2026)*
 
-- **August 2026** – Created **93 commits** in 4 repositories:
-  - `heshansandalka/my-portfolio` (69 commits)
-  - `heshansandalka/heshansandalka` (13 commits)
-  - `heshansandalka/TaskFlow` (9 commits)
-  - `heshansandalka/Homeqeq` (2 commits)
-- **Created 2 new repositories**: `heshansandalka/TaskFlow` and more.
 
----
----
 
