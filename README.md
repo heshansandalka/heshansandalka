@@ -39,10 +39,21 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-1,008-brightgreen?style=for-the-badge" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Current_Streak-8_days-blue?style=for-the-badge" alt="Current Streak" />
+  <img src="https://img.shields.io/badge/Longest_Streak-8_days-orange?style=for-the-badge" alt="Longest Streak" />
+</p>
+
+<p align="center">
+  <small>📅 Aug 2, 2025 – Present &nbsp;|&nbsp; ⚡ Aug 20 – Aug 21 &nbsp;|&nbsp; 🏆 Apr 30 – May 7</small>
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=heshansandalka&show_icons=true&theme=dark" alt="heshansandalka stats" />
 </p>
-  
 
+---
 
